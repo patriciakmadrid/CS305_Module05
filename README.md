@@ -7,8 +7,8 @@ This repository is for the Module 5 Assignment for CS305.
 * *Join* a group member's repository as a collborator.
 * *Fork* and *create* a pull request on another member's repository.
 
-#### License
+## License
 This repository uses the MIT License.
 
-#### Author
+## Author
 This repository is created by Patricia Madrid.
